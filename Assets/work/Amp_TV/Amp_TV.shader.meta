@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c0540a07c559c1e4986110b61c09f91a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MonaLisa: {fileID: 2800000, guid: 8a4569df886e73e41a7c73caaa89ba5a, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
