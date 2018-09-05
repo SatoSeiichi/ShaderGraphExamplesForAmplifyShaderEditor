@@ -1,0 +1,3 @@
+# ShaderGraphExamplesForAmplifyShaderEditor
+【Unite Tokyo 2018】Shader Graphの講演の例１〜例３までAmplifyShaderEditorで再現してみたで作ったサンプルプロジェクトです
+Assets->Workフォルダに今回AmplifyShaderEditorで作ったサンプルがあります
